@@ -9,6 +9,7 @@ _Setting up a new computer can be a pain so let me show you how I did it on my n
 ## Resources:
 
 - [Guide to iTerm2](https://medium.com/featurepreneur/guide-to-iterm2-46cd4625d55a)
+- [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Guide
 
